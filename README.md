@@ -1,4 +1,4 @@
-![Corona Map](./coronamap_image.jpg?raw=true "Corona Map")
+![Corona Map](../coronamap_image.png?raw=true "Corona Map")
 
 
 # 🍃 Gatsby Leaflet Starter
