@@ -126,7 +126,7 @@ const IndexPage = () => {
 
       <Container type="content" className="text-center">
         <h2>Just another Coronatracker</h2>
-        <p>Hover over the red dot to see statistics for the individual country</p>
+        
       </Container>
 
       <Map {...mapSettings}/>

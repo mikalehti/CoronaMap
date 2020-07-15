@@ -1,3 +1,6 @@
+![Corona Map](../coronamap_image.jpg?raw=true "Corona Map")
+
+
 # 🍃 Gatsby Leaflet Starter
 
 Jumpstart your next Gatsby mapping project with Leaflet!
