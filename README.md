@@ -1,3 +1,7 @@
+Image below is a illustration of the Corona tracker.
+
+Hover over the number on each individual country in order to view the pop-up with the current numbers.
+
 ![Corona Map](/coronamap_image.png?raw=true "Corona Map")
 
 
