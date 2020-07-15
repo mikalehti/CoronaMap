@@ -5,24 +5,7 @@ Hover over the number on each individual country in order to view the pop-up wit
 ![Corona Map](/coronamap_image.png?raw=true "Corona Map")
 
 
-# 🍃 Gatsby Leaflet Starter
-
-Jumpstart your next Gatsby mapping project with Leaflet!
-
-## ⚡ Quick Deploy
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/colbyfayock/gatsby-starter-leaflet) [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/colbyfayock/gatsby-starter-leaflet)
-
-
-## 🧰 What This Includes
-* [Yarn](https://yarnpkg.com/en/)
-* [Gatsby](https://www.gatsbyjs.org/)
-* [Sass](https://sass-lang.com)
-* [React Helmet](https://github.com/nfl/react-helmet)
-* [Resolve Src](https://github.com/alampros/gatsby-plugin-resolve-src)
-* [Leaflet](https://leafletjs.com/)
-* [React Leaflet](https://react-leaflet.js.org)
-
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 * [Gatsby CLI](https://www.npmjs.com/package/gatsby-cli)
